@@ -1,4 +1,7 @@
-## SimpleAlex w/o regularisation: 
+## SimpleAlex w/o regularisation:
+  Accuracy of the on test images :  72.02
+
+## SimpleAlex with decay factor 0.005:
   Accuracy of the on test images :  73.04   
   Accuracy of the on test images :  73.34
 
