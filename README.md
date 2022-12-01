@@ -10,3 +10,5 @@
 
 ## MLP 1x512 with weight decay factor 0.01: 
   Accuracy of the on test images :  40.86
+## MLP 1x512 with weight decay factor 0.1: 
+  Accuracy of the on test images :  18.21
