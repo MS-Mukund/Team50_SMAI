@@ -24,5 +24,13 @@
   Accuracy of the on test images :  55.56
 
 ## MLP 3x512 with weight decay factor 0.01: 
+  Accuracy of the on test images :  53.13
 
 ## MLP 3x512 with weight decay factor 0.1: 
+  Accuracy of the on test images :  10.0
+
+## MLP 3x512 with weight decay 0.005: 
+  Accuracy of the on test images :  53.01
+## MLP 3x512 with weight decay 0.002: 
+   Accuracy of the on test images :  53.45
+
