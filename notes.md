@@ -65,4 +65,4 @@
   --Accuracy of train 1
 15. Inception with random lables 
 --  Accuracy of test  0.06 (epoch = 100)
-. --Accuracy of train 1
+. --Accuracy of train 0.14
