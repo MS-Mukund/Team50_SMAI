@@ -58,8 +58,11 @@
     Accuracy of the on test images :  70.72
     Training accuracy:  0.72676
 12. Inception without weight decay  
-13. --  Accuracy of test  0.32 (epoch = 100)
-14. --Accuracy of train 0.9999000000000001
+ --  Accuracy of test  0.32 (epoch = 100)
+ --Accuracy of train 0.9999000000000001
 15. Inception with weight decay = 0.05 
-13. --  Accuracy of test  0.34 (epoch = 100)
-14. --Accuracy of train 0.9999000000000001
+ --  Accuracy of test  0.34 (epoch = 100)
+  --Accuracy of train 1
+15. Inception with random lables 
+--  Accuracy of test  0.06 (epoch = 100)
+. --Accuracy of train 1
